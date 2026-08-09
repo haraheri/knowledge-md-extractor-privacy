@@ -1,0 +1,8 @@
+title: Knowledge MD Extractor Privacy Policy
+description: Privacy Policy for the Knowledge MD Extractor Chrome extension.
+url: https://haraheri.github.io
+baseurl: /knowledge-md-extractor-privacy
+markdown: kramdown
+
+exclude:
+  - README.md
